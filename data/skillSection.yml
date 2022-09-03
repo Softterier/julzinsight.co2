@@ -1,17 +1,26 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Our Skills
 content: >
-  ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-
-image: images/skill/skill_image.jpg
+  ## Why should you believe and invest in us?
+  
+  We are transparent!
+image: images/illustrations/whyinvest.svg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Full Stack Development
+    percent: 38
+  - title: Unity and Unreal Engine
+    percent: 3
+  - title: Rust, Solidity, and Blockchain
+    percent: 10
+  - title: AI, ML and DL
+    percent: 0
+  - title: Cybersecurity
+    percent: 27
+  - title: Design (UI, UX and Product)
+    percent: 50
+  - title: Others
+    percent: 65
+
+
