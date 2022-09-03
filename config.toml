@@ -55,7 +55,7 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/julzinsight"
 weight = 2
 [[params.social]]
-icon = "fa-instagram-square"
+icon = "fa-instagram"
 url = "https://www.instagram.com/julzinsight"
 weight = 3
 [[params.social]]
