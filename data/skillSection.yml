@@ -4,7 +4,7 @@ topTitle: Our Skills
 content: >
   ## Why should you believe and invest in us?
   
-  We are transparent!
+  We are transparent! We are commited! We are focused! We are Julz Insight!
 image: images/illustrations/whyinvest.svg
 
 skill:
@@ -14,13 +14,9 @@ skill:
     percent: 3
   - title: Rust, Solidity, and Blockchain
     percent: 10
-  - title: AI, ML and DL
-    percent: 0
-  - title: Cybersecurity
-    percent: 27
   - title: Design (UI, UX and Product)
     percent: 50
-  - title: Others
+  - title: Other required competencies
     percent: 65
 
 
