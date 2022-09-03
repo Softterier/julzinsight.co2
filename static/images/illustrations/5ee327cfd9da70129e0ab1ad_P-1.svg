@@ -1,0 +1,30 @@
+<svg id="P-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="111" height="104" viewBox="0 0 111 104">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H43.717V34.529H0Z" transform="translate(0.183 0.099)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_11" data-name="Clip 11" d="M0,104H111V0H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Fill_1" data-name="Fill 1" d="M90.658,90H2.341A2.348,2.348,0,0,1,0,87.646V2.353A2.348,2.348,0,0,1,2.341,0H90.658A2.348,2.348,0,0,1,93,2.353V87.646A2.348,2.348,0,0,1,90.658,90" transform="translate(1 2)" fill="#fff"/>
+  <path id="Fill_3" data-name="Fill 3" d="M92.023,92H2.976A2.988,2.988,0,0,1,0,89.007V2.992A2.988,2.988,0,0,1,2.976,0H92.023A2.988,2.988,0,0,1,95,2.992V89.007A2.988,2.988,0,0,1,92.023,92ZM2.976,1.237A1.752,1.752,0,0,0,1.231,2.992V89.007a1.752,1.752,0,0,0,1.745,1.755H92.023a1.752,1.752,0,0,0,1.746-1.755V2.992a1.753,1.753,0,0,0-1.746-1.755Z"/>
+  <g id="Group_7" data-name="Group 7" transform="translate(67 10)">
+    <path id="Clip_6-2" data-name="Clip 6" d="M0,0H43.717V34.529H0Z" transform="translate(0.183 0.099)" fill="none"/>
+    <g id="Group_7-2" data-name="Group 7" clip-path="url(#clip-path)">
+      <path id="Fill_5" data-name="Fill 5" d="M0,0V26.128H2.033l-.29,8.4,13.217-8.4H43.717V0Z" transform="translate(0.183 0.099)" fill="#4fbbd9" opacity="0.657"/>
+    </g>
+  </g>
+  <path id="Fill_8" data-name="Fill 8" d="M0,0V62H56Z" transform="translate(53 42)"/>
+  <path id="Clip_11-2" data-name="Clip 11" d="M0,104H111V0H0Z" fill="none"/>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path-2)">
+    <path id="Fill_10" data-name="Fill 10" d="M0,1H50V0H0Z" transform="translate(9 10)"/>
+    <path id="Fill_12" data-name="Fill 12" d="M0,1H50V0H0Z" transform="translate(9 18)"/>
+    <path id="Fill_13" data-name="Fill 13" d="M0,1H50V0H0Z" transform="translate(9 27)"/>
+    <path id="Fill_14" data-name="Fill 14" d="M0,1H50V0H0Z" transform="translate(9 35)"/>
+    <path id="Fill_15" data-name="Fill 15" d="M0,1H32V0H0Z" transform="translate(9 43)"/>
+    <path id="Fill_16" data-name="Fill 16" d="M0,1H32V0H0Z" transform="translate(9 52)"/>
+    <path id="Fill_17" data-name="Fill 17" d="M0,1H32V0H0Z" transform="translate(9 60)"/>
+    <path id="Fill_18" data-name="Fill 18" d="M0,1H32V0H0Z" transform="translate(9 68)"/>
+  </g>
+</svg>
