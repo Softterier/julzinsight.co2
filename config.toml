@@ -34,7 +34,7 @@ weight = 2
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Julz Insigh 2022"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "images/site-navigation/default-monochrome-white.svg"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
