@@ -10,10 +10,6 @@ image: images/illustrations/whyinvest.svg
 skill:
   - title: Full Stack Development
     percent: 38
-  - title: Unity and Unreal Engine
-    percent: 3
-  - title: Rust, Solidity, and Blockchain
-    percent: 10
   - title: Design (UI, UX and Product)
     percent: 50
   - title: Other required competencies
