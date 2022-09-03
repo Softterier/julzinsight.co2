@@ -1,12 +1,12 @@
 ---
 enable: true
-topTitle: R&D Studio
+topTitle: Research & Innovation Studio
 content: >
   # Welcome to Julz Insight
 
-  Where we are building the future, one solution at a time
+  Where we are building the future, one solution, one brand, one tool, one product, one business, one tech at a time
 buttonName: Contact us
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/illustrations/ark-funds-homepage-illustration.svg
 videoThumb: images/hero/popup-thumb.png
 
