@@ -27,10 +27,10 @@ service:
 
     image: images/service/ui-ux.svg
   - content: >
-      #### Propolsion Systems, Renewable Energy and Energy Storage
+      #### Propolsion Systems, Renewable Energy, and Energy Storage
 
     image: images/service/ui-ux.svg
   - content: >
-      #### Cybersecurity, Digital Trust, Data Fabric, and Decision Inteligence
+      #### Cybersecurity, Data Fabric, and Decision Inteligence
 
     image: images/service/ui-ux.svg
