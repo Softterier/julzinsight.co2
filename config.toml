@@ -1,4 +1,4 @@
-baseURL = "http://julzinsight4.netlify.app"
+baseURL = "https://julzinsight4.netlify.app"
 languageCode = "en-us"
 paginate = 6
 title = "Portio"
