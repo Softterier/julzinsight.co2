@@ -55,6 +55,11 @@ footerLogo = "images/site-navigation/default-monochrome-white.svg"
 fabformURL  = "https://fabform.io/f/JHtgGPN"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/default-monochrome.svg"
+location = "Nairobi, Kenya"
+copyright = "Stephen Ajulu"
+creator = "stephenajulu"
+description = "Julz Insight is "
+featureImage = "images/social.png"
 
 [params.address]
 email = "julzinsight@gmail.com"
@@ -76,3 +81,30 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/julzinsight"
 weight = 4
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+[[related.indices]]
+name = "keywords"
+weight = 50
+[[related.indices]]
+name = "description"
+weight = 30
+[[related.indices]]
+name = "date"
+weight = 10
+[[related.indices]]
+name = "tags"
+weight = 30
+[[related.indices]]
+name = "categories"
+weight = 10
+[[related.indices]]
+name = "title"
+weight = 20
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
