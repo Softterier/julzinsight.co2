@@ -2,6 +2,24 @@ baseURL = "https://julzinsight.co"
 languageCode = "en-us"
 paginate = 6
 title = "Julz Insight - Research & Innovation Studio"
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+languageCode = "en"
+metaDataFormat = "yaml"
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+rssLimit = 36
+[author]
+email = "julzinsight@gmail.com"
+facebook = "https://facebook.com/julzinsight"
+github = "https://github.com/julzinsight"
+linkedin = "https://linkedin.com/julzinsight"
+name = "Julz Insight"
+twitter = "https://twitter.com/julzinsight"
+[markup.goldmark.renderer]
+unsafe = true
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -21,6 +39,12 @@ weight = 4
 name = "Latest Articles"
 url = "/blog"
 weight = 1
+
+[outputFormats.RSS]
+baseName = "feed"
+mediatype = "application/rss"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 blogPageURL = "blog"
