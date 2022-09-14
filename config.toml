@@ -5,7 +5,6 @@ title = "Julz Insight - Research & Innovation Studio"
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
-languageCode = "en"
 metaDataFormat = "yaml"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
