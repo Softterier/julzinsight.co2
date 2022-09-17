@@ -1,12 +1,11 @@
 ---
 enable: true
-topTitle: Research & Innovation Studio
+topTitle: Research & Development Studio
 content: >
   # Welcome to Julz Insight
 
-  Where we craft and invest in impactful brands, products, and solutions. We are also committed to helping you make the shift from now to next, building your future one step at a time.
-buttonName: Contact us
+  An independent studio focused on building impactful products, brands, and solutions. Make the shift from now to next with Julz Insight.
+buttonName: Contact us →
 buttonURL: contact
 image: images/illustrations/julz-homepage-illustration.svg
 videoThumb: images/hero/popup-thumb.png
-
